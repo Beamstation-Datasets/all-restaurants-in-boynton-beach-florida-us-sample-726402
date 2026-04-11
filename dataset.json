@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Boynton Beach, Florida. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Boynton Beach, Florida, US",
+  "export_job_id": "2a6d8f91-ea85-47da-8c48-4ae9b03b96b6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 726402,
+  "location_name": "Boynton Beach",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-boynton-beach-florida-us-sample-726402",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/726402/beamstation_726402_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 17,
+  "sample_sha256": "c1d5c1c3ec547f254a67b3da9c3d5aed966a3bf68aa4a726f20c51ec8dda76d5",
+  "sample_size_bytes": 83603,
+  "total_records": 171,
+  "updated_at": "2026-03-31T14:22:17.353229+00:00"
+}
