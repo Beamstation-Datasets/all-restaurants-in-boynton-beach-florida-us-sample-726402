@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2a6d8f91-ea85-47da-8c48-4ae9b03b96b6",
+  "id_short": 726402,
+  "published_at": "2026-04-11T19:42:36Z",
+  "repo_name": "all-restaurants-in-boynton-beach-florida-us-sample-726402",
+  "sample_asset_name": "beamstation_726402_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/726402/beamstation_726402_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 17,
+  "sample_sha256": "c1d5c1c3ec547f254a67b3da9c3d5aed966a3bf68aa4a726f20c51ec8dda76d5",
+  "sample_size_bytes": 83603,
+  "total_records": 171
+}
