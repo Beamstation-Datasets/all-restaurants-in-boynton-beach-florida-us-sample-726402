@@ -1,6 +1,6 @@
 # All Restaurants in Boynton Beach, Florida, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `726402` |
 | Location | Boynton Beach |
 | Category | Restaurants |
-| Full dataset size | 217 records |
-| Free sample size | 21 records (9.68%) |
-| Last export | 2026-04-14T14:49:42.346430+00:00 |
+| Full dataset size | 176 records |
+| Free sample size | 17 records (9.66%) |
+| Last export | 2026-04-21T16:00:07.397300+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boynton-beach-florida-us-sample-726402/releases/download/sample-latest/beamstation_726402_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
